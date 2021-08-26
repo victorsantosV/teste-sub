@@ -1,0 +1,4 @@
+[submodule "repo2"]
+	path = repo2
+	url = git@github.com:victorsantosV/repo2.git
+	branch = main
